@@ -13,3 +13,8 @@ Project is created with:
 ## Features
 * Pay for parking by adding license plates and choosing a zone 
 * Add and delete license plates 
+
+## App Preview
+<img src="https://github.com/EmanuelNov/ParkingApp/blob/master/main_screen.png" align="left" width=20% height=20%>
+<img src="https://github.com/EmanuelNov/ParkingApp/blob/master/plates_screen.png" align="left" width=20% height=20%>
+<img src="https://github.com/EmanuelNov/ParkingApp/blob/master/zones_screen.png" align="left" width=20% height=20%>
